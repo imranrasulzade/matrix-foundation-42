@@ -8,12 +8,13 @@ public class Main {
         student.setSurname("Hasanov");
         student.setAge(18);
 
+        Student student1 = new Student();
+        student1.setName("Farid");
+        student1.setSurname("Fasadov");
+        student1.setAge(18);
+
         System.out.println(student.getName());
-        System.out.println(student.getName());
-        System.out.println(student.getName());
-        System.out.println(student.getName());
-        System.out.println(student.getName());
-        System.out.println(student.getName());
+
 
 
 
