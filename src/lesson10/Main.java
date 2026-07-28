@@ -9,6 +9,7 @@ public class Main {
         student.setAge(18);
 
         System.out.println(student.getName());
+        System.out.println(student.getName());
 
 
 
