@@ -14,6 +14,10 @@ public class Main {
         student1.setAge(18);
 
         System.out.println(student.getName());
+        System.out.println(student.getName());
+        System.out.println(student.getName());
+        System.out.println(student.getName());
+        System.out.println(student.getName());
 
 
 
