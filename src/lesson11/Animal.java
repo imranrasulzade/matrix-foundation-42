@@ -20,7 +20,9 @@ public class Animal {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (!(o instanceof Animal animal)) return false;
-        return age == animal.age && gender == animal.gender && Objects.equals(name, animal.name) && Objects.equals(color, animal.color);
+        return age == animal.age && gender == animal.gender
+                && Objects.equals(name, animal.name)
+                && Objects.equals(color, animal.color);
     }
 
     @Override
