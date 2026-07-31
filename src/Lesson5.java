@@ -4,6 +4,7 @@ public class Lesson5 {
 
     public static void main(String[] args) {
 
+        System.out.println();
 
         System.out.println(" 1. Valyuta çevirici\n" +
                 " 2. Bədən kütlə indeksi (BMI)\n" +
